@@ -32,22 +32,3 @@ else:
     else:
         print(f'y9 = {k}*x {b}')
 
-
-
-
-
-# if b == 0:
-#     print(f'1 y = {k}*x')
-# elif b < 0:
-#     print(f'2 y = {k}*x {b}')
-# else:
-#     print(f'3 y = {k}*x + {b}')
-#
-# if k == 0:
-#     print(f'4 y = {b}')
-# elif k == 1:
-#     print(f'5 y = x + {b}')
-# elif k < 0:
-#     print(f'6 y = {k}*x + {b}')
-# else:
-#     print(f'7 y = {k}*x + {b}')

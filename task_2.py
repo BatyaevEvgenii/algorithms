@@ -5,7 +5,6 @@ year = int(input('Введите год: '))
 if year % 400 == 0:
     print(f'{year} високосный')
 elif year % 4 == 0:
-    # print(f'{year} високосный')
     if year % 100 == 0:
         print(f'{year} НЕвисокосный')
     else:
